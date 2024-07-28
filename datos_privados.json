@@ -1,0 +1,20 @@
+[
+    {
+        "nombre": "Angel",
+        "apellido": "Ramiro",
+        "edad": 39,
+        "sexo": "masculino"
+    },
+    {
+        "nombre": "victor",
+        "apellido": "ruedaa",
+        "edad": 28,
+        "sexo": "masculino"
+    },
+    {
+        "nombre": "arnulfo",
+        "apellido": "gonzale",
+        "edad": 32,
+        "sexo": "masculino"
+    }
+]
